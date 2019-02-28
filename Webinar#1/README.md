@@ -4,6 +4,11 @@ The Bot Builder SDK enables you to build bots that support different types of in
 
 QnA Maker enables you to create a knowledge-base(KB) from your semi-structured content such as Frequently Asked Question (FAQ) URLs, product manuals, support documents and custom questions and answers. The QnA Maker service answers your users' natural language questions by matching it with the best possible answer from the QnAs in your Knowledge base.
 
+### Additional Resources
+[Pluralsight Bot Framework Course](https://www.pluralsight.com/courses/microsoft-bot-framework-getting-started-update)
+
+### Recording of the Call
+
 ## [LUIS Lab](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.5-luis/1_LUIS.md)
 A machine learning-based service to build natural language into apps, bots, and IoT devices. Designed to identify valuable information in conversations, LUIS interprets user goals (intents) and distills valuable information from sentences (entities), for a high quality, nuanced language model. LUIS integrates seamlessly with the Azure Bot Service, making it easy to create a sophisticated bot. 
 
