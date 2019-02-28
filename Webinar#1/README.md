@@ -24,3 +24,5 @@ N/A
 [Building Bots with .NET](https://aischool.microsoft.com/en-us/conversational/learning-paths/bot-framework-with-net)
 
 [Building Bots with Node.js](https://aischool.microsoft.com/en-us/conversational/learning-paths/building-bots-with-node-js)
+
+[Project Personality Chat + Speech](https://aischool.microsoft.com/en-us/conversational/learning-paths/building-an-intelligent-bot)
