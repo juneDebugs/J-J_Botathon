@@ -1,6 +1,7 @@
 ![header](https://github.com/jCho23/J-J_Botathon/blob/master/Images/Artboard.png)
 
 # Agenda
+??
 
 
 # Botathon Rules
@@ -16,7 +17,7 @@
 9. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
 
 
-## The spirit of the competition
+## Spirit of the Competition
 Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit](https://medium.com/@tfogo/the-spirit-of-hackathons-a0d81a65060a#.6cx5ac9t8) by collaborating with other teams, helping beginners, and having fun.
 
 
