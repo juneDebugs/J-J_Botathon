@@ -4,9 +4,6 @@ The Bot Builder SDK enables you to build bots that support different types of in
 
 QnA Maker enables you to create a knowledge-base(KB) from your semi-structured content such as Frequently Asked Question (FAQ) URLs, product manuals, support documents and custom questions and answers. The QnA Maker service answers your users' natural language questions by matching it with the best possible answer from the QnAs in your Knowledge base.
 
-#### Additional Resources
-[Pluralsight Bot Framework Course](https://www.pluralsight.com/courses/microsoft-bot-framework-getting-started-update)
-
 ## [LUIS Lab](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.5-luis/1_LUIS.md)
 A machine learning-based service to build natural language into apps, bots, and IoT devices. Designed to identify valuable information in conversations, LUIS interprets user goals (intents) and distills valuable information from sentences (entities), for a high quality, nuanced language model. LUIS integrates seamlessly with the Azure Bot Service, making it easy to create a sophisticated bot. 
 
@@ -17,3 +14,7 @@ Personality Chat makes it easy to add small talk capabilities to your chatbot. S
 Adaptive Cards are a new way for developers to exchange content in a common and consistent way. Get started today by putting Adaptive Cards into Microsoft Teams, Outlook Actionable Messages, Cortana Skills, or Windows Timeline -- or render cards inside your own apps by using our SDKs.
 
 ## Meeting Recording 
+N/A
+
+## Additional Resources
+[Pluralsight Bot Framework Course](https://www.pluralsight.com/courses/microsoft-bot-framework-getting-started-update)
