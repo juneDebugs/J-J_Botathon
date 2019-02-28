@@ -17,6 +17,6 @@ Adaptive Cards are a new way for developers to exchange content in a common and 
 N/A
 
 ## Additional Resources
-[Microsoft AI School Bot Framework Course](https://aischool.microsoft.com/en-us/conversational/learning-paths/getting-started-with-azure-bot-framework)]
+[Microsoft AI School Bot Framework Course](https://aischool.microsoft.com/en-us/conversational/learning-paths/getting-started-with-azure-bot-framework)
 
 [Pluralsight Bot Framework Course](https://www.pluralsight.com/courses/microsoft-bot-framework-getting-started-update)
