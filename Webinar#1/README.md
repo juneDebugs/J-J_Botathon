@@ -16,7 +16,7 @@ Adaptive Cards are a new way for developers to exchange content in a common and 
 ## Meeting Recording 
 N/A
 
-## Additional Resources
+## Additional Video Resources
 [Getting started with Bot Framwork](https://aischool.microsoft.com/en-us/conversational/learning-paths/getting-started-with-azure-bot-framework)
 
 [Pluralsight Bot Framework + LUIS Course](https://www.pluralsight.com/courses/microsoft-bot-framework-getting-started-update)
