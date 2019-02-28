@@ -1,4 +1,4 @@
-![header](https://github.com/jCho23/J-J_Botathon/blob/master/Images/Artboard.png)
+![header](https://github.com/jCho23/J-J_Botathon/blob/master/_Images/Artboard.png)
 
 # Agenda
 ??
