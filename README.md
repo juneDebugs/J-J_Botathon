@@ -1,7 +1,23 @@
 ![header](https://github.com/jCho23/J-J_Botathon/blob/master/_Images/Artboard.png)
 
 # Agenda
-??
+15 mins-             Welcome and intro- Speaker from J & J?
+
+ 
+
+30-45 mins-           Overview of the Hack- June
+
+ 
+
+1-1.5hrs              Establishing teams and whiteboarding a bot solution- wireframe of same
+
+ 
+
+7-8hrs                 Hack-(we will have a technical proctor per team to assist with the white board and hack)
+
+ 
+
+30mins               Teams present their work/awards and prizes
 
 
 # Botathon Rules
