@@ -21,7 +21,7 @@
 
 
 # Botathon Rules :robot:
-## The rules of the competition
+## Rules of the Competition
 1. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 2. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 3. All work on a project should be done at the hackathon.
