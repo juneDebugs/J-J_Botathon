@@ -1,7 +1,9 @@
 # Topic Review
 ## [Bot Framework v3 + QnA Maker Lab](https://github.com/jCho23/BotWorkshop)
 ## [LUIS Lab](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.5-luis/1_LUIS.md)
+
 ## [Personality Chat](https://github.com/Microsoft/BotBuilder-PersonalityChat)
+Personality Chat makes it easy to add small talk capabilities to your chatbot. Small talk/chit-chat helps to make chatbots more conversational and personable. This package has more than a 100 scenarios of small talk in the voice of three personas - professional, friendly, humorous. Choose the persona that most closely resembles your chatbot's voice!
 
 ## [Adaptive Cards](https://github.com/Microsoft/AdaptiveCards)
 Adaptive Cards are a new way for developers to exchange content in a common and consistent way. Get started today by putting Adaptive Cards into Microsoft Teams, Outlook Actionable Messages, Cortana Skills, or Windows Timeline -- or render cards inside your own apps by using our SDKs.
