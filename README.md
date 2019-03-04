@@ -2,68 +2,35 @@
 
 # Agenda
 
-07:45a – 08:00a​
+07:45a – 08:00a = Breakfast and Registration​
 
-Breakfast and Registration​
+08:00a – 08:15a = Welcome & Introduction​
 
-08:00a – 08:15a​
+08:15a -  09:00a = Quick Refresher from Microsoft​
 
-Welcome & Introduction​
+09:00a – 10:00a = Whiteboarding a bot solution- wireframe of same​
 
-08:15a -  09:00a​
+010:00a – 11:30a = Team Activities – Hacking​
 
-Quick Refresher from Microsoft​
+11:30a – 12:30p = Working Lunch (keep hacking!)​
 
-09:00a – 10:00a​
+12:30p - 02:30p = Team Activities - Hacking​
 
-Whiteboarding a bot solution- wireframe of same​
+02:30p – 02:45p = Afternoon Break – energy break​
 
-010:00a – 11:30a​
+02:45p - 04:30p = Team Activities – Hacking, Code Freeze @ 5​
 
-Team Activities – Hacking​
+04:30p – 05:00p = Countdown to finalized presentation​
 
-11:30a – 12:30p​
+05:00p - 05:15p = Introduction of Judging Panel​
 
-Working Lunch (keep hacking!)​
+05:15p – 05:45p = Solution presentations to Judging Panel (6 teams)​
 
-12:30p - 02:30p​
+05:45p - 06:15p = Dinner Break​
 
-Team Activities - Hacking​
+06:15p – 06:45p = Solutions presentations to Judging Panel (6 teams)​
 
-02:30p – 02:45p​
-
-Afternoon Break – energy break​
-
-02:45p - 04:30p​
-
-Team Activities – Hacking, Code Freeze @ 5​
-
-04:30p – 05:00p​
-
-Countdown to finalized presentation​
-
-05:00p - 05:15p​
-
-Introduction of Judging Panel​
-
-05:15p – 05:45p​
-
-Solution presentations to Judging Panel (6 teams)​
-
-05:45p - 06:15p ​
-
-Dinner Break​
-
-06:15p – 06:45p​
-
-Solutions presentations to Judging Panel (6 teams)​
-
-06:45p – 07:00p​
-
-Judging Panel Review​
-
-
-
+06:45p – 07:00p = Judging Panel Review​
 
 # Botathon Rules :robot:
 ## Rules of the Competition
