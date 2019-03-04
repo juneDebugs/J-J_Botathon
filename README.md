@@ -1,23 +1,68 @@
 ![header](https://github.com/jCho23/J-J_Botathon/blob/master/_Images/Artboard.png)
 
 # Agenda
-15 mins-             Welcome and intro- Speaker from J & J?
 
- 
+07:45a – 08:00a​
 
-30-45 mins-           Overview of the Hack- June
+Breakfast and Registration​
 
- 
+08:00a – 08:15a​
 
-1-1.5hrs              Establishing teams and whiteboarding a bot solution- wireframe of same
+Welcome & Introduction​
 
- 
+08:15a -  09:00a​
 
-7-8hrs                 Hack-(we will have a technical proctor per team to assist with the white board and hack)
+Quick Refresher from Microsoft​
 
- 
+09:00a – 10:00a​
 
-30mins               Teams present their work/awards and prizes
+Whiteboarding a bot solution- wireframe of same​
+
+010:00a – 11:30a​
+
+Team Activities – Hacking​
+
+11:30a – 12:30p​
+
+Working Lunch (keep hacking!)​
+
+12:30p - 02:30p​
+
+Team Activities - Hacking​
+
+02:30p – 02:45p​
+
+Afternoon Break – energy break​
+
+02:45p - 04:30p​
+
+Team Activities – Hacking, Code Freeze @ 5​
+
+04:30p – 05:00p​
+
+Countdown to finalized presentation​
+
+05:00p - 05:15p​
+
+Introduction of Judging Panel​
+
+05:15p – 05:45p​
+
+Solution presentations to Judging Panel (6 teams)​
+
+05:45p - 06:15p ​
+
+Dinner Break​
+
+06:15p – 06:45p​
+
+Solutions presentations to Judging Panel (6 teams)​
+
+06:45p – 07:00p​
+
+Judging Panel Review​
+
+
 
 
 # Botathon Rules :robot:
