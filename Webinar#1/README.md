@@ -1,10 +1,10 @@
 # Topic Review
-## [Bot Framework v3 + QnA Maker Lab](https://github.com/jCho23/BotWorkshop)
+## [Bot Framework v3 + QnA Maker](https://github.com/jCho23/BotWorkshop)
 The Bot Builder SDK enables you to build bots that support different types of interactions with users. You can design conversations in your bot to be freeform. Your bot can also have more guided interactions where it provides the user choices or actions. The conversation can use simple text or more complex rich cards that contain text, images, and action buttons. You can add natural language interactions and questions and answers, which let your users interact with your bots in a natural way.
 
 QnA Maker enables you to create a knowledge-base(KB) from your semi-structured content such as Frequently Asked Question (FAQ) URLs, product manuals, support documents and custom questions and answers. The QnA Maker service answers your users' natural language questions by matching it with the best possible answer from the QnAs in your Knowledge base.
 
-## [LUIS Lab](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.5-luis/1_LUIS.md)
+## [LUIS](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.5-luis/1_LUIS.md)
 A machine learning-based service to build natural language into apps, bots, and IoT devices. Designed to identify valuable information in conversations, LUIS interprets user goals (intents) and distills valuable information from sentences (entities), for a high quality, nuanced language model. LUIS integrates seamlessly with the Azure Bot Service, making it easy to create a sophisticated bot. 
 
 ## [Integrating LUIS + QnA](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cognitive-services/QnAMaker/Tutorials/integrate-qnamaker-luis.md#web-app-bot)
