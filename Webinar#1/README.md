@@ -7,6 +7,9 @@ QnA Maker enables you to create a knowledge-base(KB) from your semi-structured c
 ## [LUIS Lab](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.5-luis/1_LUIS.md)
 A machine learning-based service to build natural language into apps, bots, and IoT devices. Designed to identify valuable information in conversations, LUIS interprets user goals (intents) and distills valuable information from sentences (entities), for a high quality, nuanced language model. LUIS integrates seamlessly with the Azure Bot Service, making it easy to create a sophisticated bot. 
 
+## [Integrating LUIS + QnA](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cognitive-services/QnAMaker/Tutorials/integrate-qnamaker-luis.md#web-app-bot)
+Once you have setup your Bot Service, QnA Knowledge Base, and LUIS you are now ready to intergrate LUIS with QnA maker. This Github repo will guide you through the process.
+
 ## [Personality Chat](https://github.com/Microsoft/BotBuilder-PersonalityChat)
 Personality Chat makes it easy to add small talk capabilities to your chatbot. Small talk/chit-chat helps to make chatbots more conversational and personable. This package has more than a 100 scenarios of small talk in the voice of three personas - professional, friendly, humorous. Choose the persona that most closely resembles your chatbot's voice!
 
