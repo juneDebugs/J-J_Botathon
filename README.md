@@ -16,10 +16,10 @@
 | 02:45p - 04:30p | Team Activities – Hacking, Code Freeze @ 5    |  
 | 04:30p – 05:00p  | Countdown to finalized presentation     |   
 | 05:00p - 05:15p | Introduction of Judging Panel    |  
-|05:15p – 05:45p    | Solution presentations to Judging Panel (6 teams)   |   
+|05:15p – 05:45p    | Project presentations to Judging Panel (6 teams)   |   
 | 05:45p - 06:15p  | Dinner Break    |  
-| 06:15p – 06:45p      | Solutions presentations to Judging Panel (6 teams)      |   
-| 06:45p – 07:00p| Judging Panel Review     |  
+| 06:15p – 06:45p      | Project presentations to Judging Panel (6 teams)      |   
+| 06:45p – 07:00p| Prizes & Closing Remarks     |  
 
 07:45a – 08:00a = Breakfast and Registration​
 
