@@ -19,7 +19,7 @@ Adaptive Cards are a new way for developers to exchange content in a common and 
 #### [Integrating Adaptive Cards + QnA Maker: C#](https://github.com/Microsoft/BotFramework-Samples/blob/master/blog-samples/CSharp/Qna-Rich-Cards/Qna-Rich-Cards/Dialogs/QnaDialog.cs)
 
 
-## [Meeting Recording]()
+## [Meeting Recording](https://msit.microsoftstream.com/video/81ee01b1-a56d-4f1e-8c3b-86e848cee0b0)
 ## [Meeting Slides](https://github.com/jCho23/J-J_Botathon/blob/master/_Resources/Webinar1Slides.pdf)
 
 
