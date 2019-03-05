@@ -6,10 +6,10 @@
 | Time        | Session           | 
 | ------------- |:-------------:| 
 | 07:45a – 08:00a    | Breakfast and Registration| 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |  
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |  
+| 08:00a – 08:15a    | Welcome & Introduction     |   
+| 08:15a -  08:45a  | Use-Cases from Microsoft      |  
+| 08:45a – 9:45a      | Whiteboarding your Bot Architecture      |   
+| 09:45a – 11:30a | Team Activities – Hacking     |  
 | col 2 is      | centered      |   
 | zebra stripes | are neat      |  
 | col 2 is      | centered      |   
