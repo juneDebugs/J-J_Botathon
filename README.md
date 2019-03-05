@@ -7,19 +7,20 @@
 | ------------- |:-------------:| 
 | 07:45a – 08:00a    | Breakfast and Registration| 
 | 08:00a – 08:15a    | Welcome & Introduction     |   
-| 08:15a -  08:45a  | Use-Cases from Microsoft      |  
-| 08:45a – 9:45a      | Whiteboarding your Bot Architecture      |   
+| 08:15a -  08:45a  | Use-Cases from Microsoft + Botathon Kickoff     |  
+| 08:45a – 09:45a      | Whiteboarding your Bot Architecture      |   
 | 09:45a – 11:30a | Team Activities – Hacking     |  
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |  
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |  
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |  
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |  
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |  
+| 11:30a – 12:30p   | Working Lunch (keep hacking!)      |   
+| 12:30p - 02:30p | Team Activities - Hacking    |  
+| 02:30p – 02:45p      | Afternoon Break – energy break     |   
+| 02:45p - 04:30p | Team Activities – Hacking, Code Freeze @ 5    |  
+| 04:30p – 05:00p  | Countdown to finalized presentation     |   
+| 05:00p - 05:15p | Introduction of Judging Panel    |  
+|05:15p – 05:45p    | Solution presentations to Judging Panel (6 teams)   |   
+| 05:45p - 06:15p  | Dinner Break    |  
+| 06:15p – 06:45p      | Solutions presentations to Judging Panel (6 teams)      |   
+| 
+06:45p – 07:00p| Judging Panel Review     |  
 
 07:45a – 08:00a = Breakfast and Registration​
 
