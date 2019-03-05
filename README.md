@@ -2,6 +2,13 @@
 
 # Agenda
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 07:45a – 08:00a = Breakfast and Registration​
 
 08:00a – 08:15a = Welcome & Introduction​
