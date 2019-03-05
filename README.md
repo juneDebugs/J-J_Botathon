@@ -5,9 +5,21 @@
 
 | Time        | Session           | 
 | ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
+| 07:45a – 08:00a    | Breakfast and Registration| 
 | col 2 is      | centered      |   
-| zebra stripes | are neat      |    
+| zebra stripes | are neat      |  
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |  
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |  
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |  
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |  
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |  
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |  
 
 07:45a – 08:00a = Breakfast and Registration​
 
