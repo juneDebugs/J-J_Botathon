@@ -19,8 +19,7 @@
 |05:15p – 05:45p    | Solution presentations to Judging Panel (6 teams)   |   
 | 05:45p - 06:15p  | Dinner Break    |  
 | 06:15p – 06:45p      | Solutions presentations to Judging Panel (6 teams)      |   
-| 
-06:45p – 07:00p| Judging Panel Review     |  
+| 06:45p – 07:00p| Judging Panel Review     |  
 
 07:45a – 08:00a = Breakfast and Registration​
 
