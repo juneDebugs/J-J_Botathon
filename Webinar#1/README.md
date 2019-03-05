@@ -21,7 +21,7 @@ Adaptive Cards are a new way for developers to exchange content in a common and 
 
 ## [Meeting Recording](
 
-<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/81ee01b1-a56d-4f1e-8c3b-86e848cee0b0?autoplay=false&amp;showinfo=true" style="border:none;" allowfullscreen ></iframe>
+
 
 
 ## Additional Video Resources
