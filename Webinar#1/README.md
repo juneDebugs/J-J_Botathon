@@ -16,6 +16,8 @@ Personality Chat makes it easy to add small talk capabilities to your chatbot. S
 ## [Adaptive Cards](https://github.com/Microsoft/AdaptiveCards)
 Adaptive Cards are a new way for developers to exchange content in a common and consistent way. Get started today by putting Adaptive Cards into Microsoft Teams, Outlook Actionable Messages, Cortana Skills, or Windows Timeline -- or render cards inside your own apps by using our SDKs.
 #### [Integrating Adaptive Cards + QnA Maker: Node.js](https://github.com/Microsoft/BotFramework-Samples/tree/master/blog-samples/Node/Blog-Qna-Attachments)
+#### [Integrating Adaptive Cards + QnA Maker: C#](https://github.com/Microsoft/BotFramework-Samples/blob/master/blog-samples/CSharp/Qna-Rich-Cards/Qna-Rich-Cards/Dialogs/QnaDialog.cs)
+
 
 ## Meeting Recording 
 N/A
