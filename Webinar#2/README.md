@@ -17,4 +17,4 @@ With Cognitive Services, developers can easily add intelligent features—such a
 [Cognitive Services - Face API](https://aischool.microsoft.com/en-us/services/learning-paths/cognitive-services-face-api)<br>
 [Cognitive Services - Text Analytics](https://aischool.microsoft.com/en-us/services/learning-paths/cognitive-services-text-analytics) <br>
 [Cognitive Services - Computer Vision API](https://aischool.microsoft.com/en-us/services/learning-paths/cognitive-services-face-api)<br>
-[Image Classification using Cognitive Services - Custom Vision API]
+[Image Classification using Cognitive Services - Custom Vision API](https://aischool.microsoft.com/en-us/services/learning-paths/image-classification-using-cognitive-services)
