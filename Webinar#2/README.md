@@ -19,4 +19,4 @@ With Cognitive Services, developers can easily add intelligent features—such a
 [Cognitive Services - Computer Vision API](https://aischool.microsoft.com/en-us/services/learning-paths/cognitive-services-face-api)<br>
 [Image Classification using Cognitive Services - Custom Vision API](https://aischool.microsoft.com/en-us/services/learning-paths/image-classification-using-cognitive-services)
 
-[Sample Xamarin.Forms App using Cognitive Service Sentiment]
+[Sample Xamarin.Forms App using Cognitive Service Sentiment](https://github.com/jCho23/MobileAzureDevDays)
