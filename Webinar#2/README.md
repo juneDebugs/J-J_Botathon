@@ -14,3 +14,4 @@ With Cognitive Services, developers can easily add intelligent features—such a
 ## Additional Video Resources
 [Xamarin University](https://university.xamarin.com/classes/track/xamarin-forms)
 [Text Analytics](https://aischool.microsoft.com/en-us/services/learning-paths/cognitive-services-text-analytics)
+[Cognitive Services - Face API]
