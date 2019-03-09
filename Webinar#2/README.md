@@ -12,7 +12,7 @@ With Cognitive Services, developers can easily add intelligent features—such a
 ## Meeting Slides (n/a)
 
 ## Additional Video Resources
-[Xamarin University](https://university.xamarin.com/classes/track/xamarin-forms)
+[Xamarin University](https://university.xamarin.com/classes/track/xamarin-forms)<br>
 [Xamarin.Forms Overview](https://www.udemy.com/xamarin-forms-course/)
 
 [Cognitive Services Overview](https://www.pluralsight.com/courses/microsoft-cognitive-services-machine-learning)
