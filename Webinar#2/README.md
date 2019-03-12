@@ -8,7 +8,7 @@ Microsoft Cognitive Services is a collection of Representational State Transfer 
 
 With Cognitive Services, developers can easily add intelligent features—such as emotion and sentiment detection, vision and speech recognition, knowledge, search, and language understanding—into their applications. The collection of APIs will continuously expand, adding new APIs and improving existing ones.
 
-## Meeting Recording (n/a)
+## [Meeting Recording](https://www.youtube.com/watch?v=Cmqde7KpdmM&feature=youtu.be) 
 ## [Meeting Slides](https://github.com/jCho23/J-J_Botathon/blob/master/_Resources/Webinar2.pdf)
 
 ## Additional Video Resources
