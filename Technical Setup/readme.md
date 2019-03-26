@@ -1,15 +1,23 @@
-# Environment Setup
-## Basic Installers
+# Create Your Bot Using C# & Node.js
+## Prerequisites
+- [ x ] Check Visual Studio 2017
+- [ x ] Install Bot Emulator
+- [ x ] Install Azure CLI
+- [ x ] Setup Node.js (If Applicable)
+- [ x ] (Optional) Python Configuration
+## Environment Setup
+## Visual Stuido Setup
 1. Run `NDP471-DevPack-ENU.exe` as Administrator. This will Install the .NET SDK and Dependencies. 
 2. Run `vs_community.exe` as Administrator, click modify, then ensure the packages shown in the image below are installed. if they are not, check them and click *Modify* in the bottom right.  
 ![Displays Modify Options in the installer](https://i.imgur.com/DVESxBn.jpg)  
 After Modify Has Been Clicked, select these packages and select "Modify" in the Bottom Right. 
 ![Package to Check](https://i.imgur.com/AZ6lw1a.jpg)  
+## Setup Ngrok, Bot Emulator & Azure CLI
 3. Navigate to *ngrok\ngrok-stable-windows-amd64* and run `ngrok.exe` as Administrator.  
 4. Navigate to *\bot emulator* and run `botframework-emulator-3.5.37-windows-setup.exe` as Administrator.  
 5. Run `azure-cli-2.0.59.msi` as Administrator
 
-## Node Dev-Environment Setup (Skip This If You Are Not Using Node.js)
+## Setup Node.js (Skip This If You Are Not Using Node.js)
 1. Open MS PowerShell
 2. Using `mkdir` and `cd` navigate to your projects directory, make sure the included `package.json` is in that directory.
 3. Run `npm install --global`. This will take a few minutes. Read over the listed packages in this document and familiarize yourself with the documentation if you need to. 
@@ -18,7 +26,7 @@ After Modify Has Been Clicked, select these packages and select "Modify" in the 
 `npm install botdispatch`	
 `npm install qnamaker`   
   
-## Configuring your IDE
+## Configuring Python (Optional)
 For this competition, we recommend using the included Visual Studio, but you are free to develop in whatever you choose. 
 **Adding Python to VS**:  
 1. set these environment paths in Visual Studio 2017 Community, navigate to Tools > Python Tools > Python Environments. Then select + Custom.
@@ -37,7 +45,8 @@ Run the following commands to download the sample code.
 
 - Tunneling (ngrok): The Bot Framework Emulator integrates tightly with ngrok, if you're running the Bot Framework Emulator behind a firewall or other network boundary. Developers need to follow up the following link to install and configure tunneling software.
 
-[Ngrok Wiki](https://github.com/Microsoft/BotFramework-Emulator/wiki/Tunneling-%28ngrok%29 "Ngrok Wiki")
+- [Ngrok Wiki](https://github.com/Microsoft/BotFramework-Emulator/wiki/Tunneling-%28ngrok%29 "Ngrok Wiki")
+- [Bot SDK V. 3](https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-3.0)
 
 ## Resources
  
