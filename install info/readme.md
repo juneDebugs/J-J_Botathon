@@ -12,7 +12,7 @@
 ![Displays Modify Options in the installer](https://i.imgur.com/DVESxBn.jpg)  
 After Modify Has Been Clicked, select these packages and select "Modify" in the Bottom Right. 
 ![Package to Check](https://i.imgur.com/AZ6lw1a.jpg)  
-## Ngrok, Bot Emulator & Azure CLI
+## Setup Ngrok, Bot Emulator & Azure CLI
 3. Navigate to *ngrok\ngrok-stable-windows-amd64* and run `ngrok.exe` as Administrator.  
 4. Navigate to *\bot emulator* and run `botframework-emulator-3.5.37-windows-setup.exe` as Administrator.  
 5. Run `azure-cli-2.0.59.msi` as Administrator
